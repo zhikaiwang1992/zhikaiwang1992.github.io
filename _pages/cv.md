@@ -23,8 +23,7 @@ Work experience
 2023-      Newton International Research Fellow at University of Southampton, UK
 
 2022-2023  Postdoc researcher at Institut de Physique du Globe de Paris, France
-\n
-\n
+
 
 Publications
 ======
