@@ -1,16 +1,12 @@
+Year 2022
 ---
-layout: archive
-title: "Publications"
-permalink: /publications/
-author_profile: true
+Zhikai Wang and Satish C. Singh (2022), Seismic evidence for uniform crustal accretion along slow-spreading ridges in the equatorial Atlantic Ocean, Nature communications, 13, 7809.
+
+Zhikai Wang, Satish C. Singh, Cecile Prigent, Emma P.M. Gregory and Milena Marjanović (2022), Deep hydration and lithospheric thinning at oceanic transform plate boundaries, Nature Geoscience, 15, 741–746.
+
+
+Year 2021
 ---
-
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+Zhiteng Yu, Satish C. Singh, Emma P.M. Gregory, Marcia Maia, Zhikai Wang and Daniele Brunelli (2021), Semibrittle seismic deformation in high-temperature mantle mylonite shear zone along the Romanche transform fault, Science Advances, 7(15), eabf3388.
+Emma P.M. Gregory., Satish C. Singh, Milena Marjanović and Zhikai Wang (2021), Serpentinized peridotite versus thick mafic crust at the Romanche oceanic transform fault, Geology, 49(9), 1132-1136.
+Kevin Growe, Ingo Grevemeyer, Satish C. Singh, Milena Marjanović, Emma P.M. Gregory, Cord Papenberg, Venkata Vaddineni, Laura Gómez de la Peña and Zhikai Wang (2021), Seismic structure of the St. Paul Fracture Zone and Late Cretaceous to Mid Eocene oceanic crust in the equatorial Atlantic Ocean near 18°W, Journal of Geophysical Research: Solid Earth, 126, e2021JB022456.
