@@ -10,21 +10,18 @@ redirect_from:
 {% include base_path %}
 
 Education
+======
 2022 **Ph.D. of Earth & Environment Science**, Institut de Physique du Globe de Paris, France
+
 2018 **Master of Geophysics**, Institut de Physique du Globe de Paris, Université Paris 7, France
+
 2014 **Bachelor of Geophysics**, China University of Petroleum at Beijing, China
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+2023-      Newton International Research Fellow at University of Southampton, UK
+2022-2023  Postdoc researcher at Institut de Physique du Globe de Paris, France
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
 Skills
 ======
