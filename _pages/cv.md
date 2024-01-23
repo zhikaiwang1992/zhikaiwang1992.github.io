@@ -11,20 +11,19 @@ redirect_from:
 
 Education
 ======
+* 2022 &nbsp; &nbsp; **Ph.D. of Earth and Environment Science**, Institut de Physique du Globe de Paris, France
 
-2022    **Ph.D. of Earth & Environment Science**, Institut de Physique du Globe de Paris, France
+* 2018 &nbsp; &nbsp; **Master of Geophysics**, Institut de Physique du Globe de Paris, Université Paris 7, France
 
-2018    **Master of Geophysics**, Institut de Physique du Globe de Paris, Université Paris 7, France
-
-2014    **Bachelor of Geophysics**, China University of Petroleum at Beijing, China
-
+* 2014 &nbsp; &nbsp; **Bachelor of Geophysics**, China University of Petroleum at Beijing, China
+<br />
 
 Work experience
 ======
-2023-      Newton International Research Fellow at University of Southampton, UK
+* 2023- &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Newton International Research Fellow at University of Southampton, UK
 
-2022-2023  Postdoc researcher at Institut de Physique du Globe de Paris, France
-
+* 2022-2023 &nbsp; &nbsp; &nbsp;Postdoc researcher at Institut de Physique du Globe de Paris, France
+<br />
 
 Publications
 ======
@@ -41,28 +40,47 @@ Year 2021
 * Emma P.M. Gregory., Satish C. Singh, Milena Marjanović and **Zhikai Wang** (2021), Serpentinized peridotite versus thick mafic crust at the Romanche oceanic transform fault, Geology, 49(9), 1132-1136.
 * Kevin Growe, Ingo Grevemeyer, Satish C. Singh, Milena Marjanović, Emma P.M. Gregory, Cord Papenberg, Venkata Vaddineni, Laura Gómez de la Peña and **Zhikai Wang** (2021), Seismic structure of the St. Paul Fracture Zone and Late Cretaceous to Mid Eocene oceanic crust in the equatorial Atlantic Ocean near 18°W, Journal of Geophysical Research: Solid Earth, 126, e2021JB022456.
 
+Year 2020
+---
+* Milena Marjanović, Satish C. Singh, Emma P.M. Gregory, Ingo Grevemeyer, Kevin Growe, **Zhikai Wang**, Venkata Vaddineni, Muriel Laurencin, Hélène Carton, Laura Gómez de la Peña and Christian Filbrandt (2020), Seismic Crustal Structure and Morpho-tectonic Features Associated with the Chain Fracture Zone and their Role in the Evolution of the Equatorial Atlantic Region, Journal of Geophysical Research: Solid Earth, 125, e2020JB020275.
+
+Year 2019
+---
+* **Zhikai Wang**, Satish C. Singh and Mark Noble (2019), True-amplitude versus trace-normalized full waveform inversion, Geophysical Journal International, 220(2), 1421-1435.       
+
+Year 2018
+---
+* **Zhikai Wang**, Jingye Li, Benfeng Wang, Yiran Xu and Xiaohong Chen (2018), A new central compact finite difference scheme with high spectral resolution for acoustic wave equation, Journal of Computational Physics, 366, 191-206.
+
+Year 2017
+---
+* **Zhikai Wang**, Jingye Li, Benfeng Wang, Yiran Xu and Xiaohong Chen (2017), Time-domain explicit finite-difference method based on the mixed-domain function approximation for acoustic wave equation, Geophysics, 82(5), T237-T248. 
+* Ying Liu, Jingye Li, Xiaohong Chen, **Zhikai Wang**, Yiran Xu and Benfeng Wang (2017), Q estimation and its application in the 3D shallow weathering zone, Interpretation, 5(1), SC29-SC38.
 
 
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+<br />
+
+
+#Talks
+#======
+#  <ul>{% for post in site.talks %}
+#    {% include archive-single-talk-cv.html %}
+#  {% endfor %}</ul>
 
 
 
 
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+#Teaching
+#======
+#  <ul>{% for post in site.teaching %}
+#    {% include archive-single-cv.html %}
+#  {% endfor %}</ul>
 
 
 
 
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+#Service and leadership
+#======
+#* Currently signed in to 43 different slack teams
