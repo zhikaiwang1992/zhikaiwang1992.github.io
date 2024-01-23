@@ -25,6 +25,8 @@ Work experience
 2022-2023  Postdoc researcher at Institut de Physique du Globe de Paris, France
 
 
+
+
 Publications
 ======
 Year 2022
@@ -34,17 +36,27 @@ Year 2022
 * Zhikai Wang, Satish C. Singh, Cecile Prigent, Emma P.M. Gregory and Milena Marjanović (2022), Deep hydration and lithospheric thinning at oceanic transform plate boundaries, Nature Geoscience, 15, 741–746.
 
 
+
+
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
+
+
+
+
   
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+
+
+
   
 Service and leadership
 ======
