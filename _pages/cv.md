@@ -11,11 +11,11 @@ redirect_from:
 
 Education
 ======
-2022  **Ph.D. of Earth & Environment Science**, Institut de Physique du Globe de Paris, France
+2022      **Ph.D. of Earth & Environment Science**, Institut de Physique du Globe de Paris, France
 
-2018   **Master of Geophysics**, Institut de Physique du Globe de Paris, Université Paris 7, France
+2018      **Master of Geophysics**, Institut de Physique du Globe de Paris, Université Paris 7, France
 
-2014  **Bachelor of Geophysics**, China University of Petroleum at Beijing, China
+2014      **Bachelor of Geophysics**, China University of Petroleum at Beijing, China
 
 
 Work experience
@@ -23,13 +23,11 @@ Work experience
 2023-      Newton International Research Fellow at University of Southampton, UK
 
 2022-2023  Postdoc researcher at Institut de Physique du Globe de Paris, France
-
-
-
+\n
+\n
 
 Publications
 ======
-
 Year 2022
 ---
 * **Zhikai Wang** and Satish C. Singh (2022), Seismic evidence for uniform crustal accretion along slow-spreading ridges in the equatorial Atlantic Ocean, Nature communications, 13, 7809.
