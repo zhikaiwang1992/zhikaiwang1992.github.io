@@ -14,8 +14,9 @@ Emails: zhikaiwang1992@gmail.com; zw1m23@soton.ac.uk
 
 Research interests
 ----
-Plate tectonics, Mid-Ocean Ridges, Transform faults, 
-Seismic tomography and full waveform inversion, gravity inversion
+Plate tectonics, Mid-Ocean Ridges, Transform faults,
+
+Seismic tomography, full waveform inversion, gravity inversion
 
 Education
 ----
