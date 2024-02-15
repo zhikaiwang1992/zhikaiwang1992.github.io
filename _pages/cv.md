@@ -21,7 +21,7 @@ Education
 
 <br />
 
-Work experience
+Professional experience
 ======
 * 2023- &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Newton International Research Fellow at University of Southampton, UK
 
