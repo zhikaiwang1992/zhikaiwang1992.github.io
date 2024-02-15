@@ -30,7 +30,8 @@ Professional experience
 <br />
 
 Publications
-=====\
+=====
+
 Year 2022
 ---
 * **Zhikai Wang** and Satish C. Singh (2022), Seismic evidence for uniform crustal accretion along slow-spreading ridges in the equatorial Atlantic Ocean, Nature communications, 13, 7809.
