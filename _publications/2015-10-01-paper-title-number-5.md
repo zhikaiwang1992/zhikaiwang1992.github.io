@@ -1,3 +1,4 @@
+---
 title: "Seismic structure of the St. Paul Fracture Zone and Late Cretaceous to Mid Eocene oceanic crust in the equatorial Atlantic Ocean near 18°W"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-5
