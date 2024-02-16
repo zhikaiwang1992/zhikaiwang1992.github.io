@@ -8,4 +8,4 @@ venue: 'Nature Geoscience'
 paperurl: ''
 citation: 'Zhikai Wang, Satish C. Singh, Cecile Prigent, Emma P.M. Gregory and Milena Marjanović (2022). &quot;Deep hydration and lithospheric thinning at oceanic transform plate boundaries&quot; <i>, Nature Geoscience</i>.15, 741–746.'
 ---
-[Download paper here](https://doi.org/10.1038/s41467-022-35459-z)
+[Download paper here](https://doi.org/10.1038/s41561-022-01003-3)
