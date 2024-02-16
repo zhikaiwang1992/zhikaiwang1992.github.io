@@ -1,7 +1,7 @@
 ---
 title: "Deep hydration and lithospheric thinning at oceanic transform plate boundaries"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink: /publication/2015-10-01-paper-title-number-2
 excerpt: 'Zhikai Wang, Satish C. Singh, Cecile Prigent, Emma P.M. Gregory and Milena Marjanović'
 date: 2022-08-25
 venue: 'Nature Geoscience'
