@@ -7,6 +7,6 @@ date: 2022-12-17
 venue: 'Nature Communications'
 paperurl: ''
 citation: 'Zhikai Wang and Satish C. Singh (2022). &quot;Seismic evidence for uniform crustal
-accretion along slow-spreading ridges in the equatorial Atlantic Ocean 13.&quot; <i> Nature Communications</i>. 13, 7809.'
+accretion along slow-spreading ridges in the equatorial Atlantic Ocean&quot; <i> Nature Communications</i>. 13, 7809.'
 ---
 [Download paper here](https://doi.org/10.1038/s41467-022-35459-z)
