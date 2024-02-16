@@ -16,7 +16,7 @@ Research interests
 ----
 Plate tectonics, Mid-Ocean Ridges, Transform faults,
 
-Seismic tomography, full waveform inversion, gravity inversion
+Seismic tomography, Full waveform inversion, Gravity inversion
 
 Education
 ----
