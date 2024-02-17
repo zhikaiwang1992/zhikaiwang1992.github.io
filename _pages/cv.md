@@ -43,6 +43,7 @@ Publications
 * Zhiteng Yu, Satish C. Singh, Emma P.M. Gregory, Marcia Maia, **Zhikai Wang** and Daniele Brunelli (2021), Semibrittle seismic deformation in high-temperature mantle mylonite shear zone along the Romanche transform fault, Science Advances, 7(15), eabf3388.
 * Emma P.M. Gregory., Satish C. Singh, Milena Marjanović and **Zhikai Wang** (2021), Serpentinized peridotite versus thick mafic crust at the Romanche oceanic transform fault, Geology, 49(9), 1132-1136.
 * Kevin Growe, Ingo Grevemeyer, Satish C. Singh, Milena Marjanović, Emma P.M. Gregory, Cord Papenberg, Venkata Vaddineni, Laura Gómez de la Peña and **Zhikai Wang** (2021), Seismic structure of the St. Paul Fracture Zone and Late Cretaceous to Mid Eocene oceanic crust in the equatorial Atlantic Ocean near 18°W, Journal of Geophysical Research: Solid Earth, 126, e2021JB022456.
+* Benfeng Wang, Jiakuo Li, Pu Wang, Wenpeng Si and **Zhikai Wang** (2021), Visco-acoustic full waveform inversion using decoupled fractional Laplacian constant-Q wave equation and optimal transport-based misfit function, Exploration Geophysics, 53, 140-150.
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Year 2020
 ---
