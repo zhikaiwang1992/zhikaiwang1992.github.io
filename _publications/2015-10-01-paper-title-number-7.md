@@ -1,3 +1,4 @@
+---
 title: "Seismic Crustal Structure and Morpho-tectonic Features Associated with the Chain Fracture Zone and their Role in the Evolution of the Equatorial Atlantic Region"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-7
