@@ -1,7 +1,7 @@
 ---
 title: "Q estimation and its application in the 3D shallow weathering zone"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-10
+permalink: /publication/2015-10-01-paper-title-number-11
 excerpt: 'Ying Liu, Jingye Li, Xiaohong Chen, **Zhikai Wang**, Yiran Xu and Benfeng Wang'
 date: 2017-02-01
 venue: 'Interpretation'
