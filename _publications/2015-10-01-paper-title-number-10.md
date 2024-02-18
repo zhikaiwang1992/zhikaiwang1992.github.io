@@ -2,7 +2,7 @@
 title: "Time-domain explicit finite-difference method based on the mixed-domain function approximation for acoustic wave equation"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-10
-excerpt: 'Zhikai Wang, Jingye Li, Benfeng Wang, Yiran Xu and Xiaohong Chen'
+excerpt: '**Zhikai Wang**, Jingye Li, Benfeng Wang, Yiran Xu and Xiaohong Chen'
 date: 2017-07-24
 venue: 'Geophysics'
 paperurl: ''
