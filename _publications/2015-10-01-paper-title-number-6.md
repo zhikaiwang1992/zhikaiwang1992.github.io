@@ -2,7 +2,7 @@
 title: "Visco-acoustic full waveform inversion using decoupled fractional Laplacian constant-Q wave equation and optimal transport-based misfit function"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-6
-excerpt: 'Benfeng Wang, Jiakuo Li, Pu Wang, Wenpeng Si and Zhikai Wang'
+excerpt: 'Benfeng Wang, Jiakuo Li, Pu Wang, Wenpeng Si and **Zhikai Wang**'
 date: 2021-03-22
 venue: 'Exploration Geophysics'
 paperurl: ''
