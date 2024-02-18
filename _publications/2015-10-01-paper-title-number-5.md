@@ -2,7 +2,7 @@
 title: "Seismic structure of the St. Paul Fracture Zone and Late Cretaceous to Mid Eocene oceanic crust in the equatorial Atlantic Ocean near 18°W"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-5
-excerpt: 'Kevin Growe, Ingo Grevemeyer, Satish C. Singh, Milena Marjanović, Emma P.M. Gregory, Cord Papenberg, Venkata Vaddineni, Laura Gómez de la Peña and Zhikai Wang'
+excerpt: 'Kevin Growe, Ingo Grevemeyer, Satish C. Singh, Milena Marjanović, Emma P.M. Gregory, Cord Papenberg, Venkata Vaddineni, Laura Gómez de la Peña and **Zhikai Wang**'
 date: 2021-12-26
 venue: 'Journal of Geophysical Research: Solid Earth'
 paperurl: ''
