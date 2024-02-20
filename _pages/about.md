@@ -18,7 +18,7 @@ Plate tectonics, Mid-ocean ridges, Transform faults,
 
 Seismic tomography, Full waveform inversion, Gravity inversion
 
-Geodynamic modelling, bathymetry mapping
+Geodynamic modelling, Bathymetry mapping
 
 Education
 ----
