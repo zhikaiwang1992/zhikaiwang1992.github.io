@@ -31,9 +31,6 @@ Professional experience
 
 Publications
 =====
-
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
----
 * **Zhikai Wang**, Satish Singh, Timothy Minshull and Wayne Crawford (2025),Fine-scale crustal velocity structure at the Lucky Strike segment of Mid-Atlantic Ridge from full waveform inversion of wide-angle seismic data, Journal of Geophysical Research: Solid Earth. (Accepted)
 * **Zhikai Wang** and Satish C. Singh (2022), Seismic evidence for uniform crustal accretion along slow-spreading ridges in the equatorial Atlantic Ocean, Nature communications, 13, 7809.
 
@@ -48,6 +45,9 @@ Publications
 * **Zhikai Wang**, Jingye Li, Benfeng Wang, Yiran Xu and Xiaohong Chen (2017), Time-domain explicit finite-difference method based on the mixed-domain function approximation for acoustic wave equation, Geophysics, 82(5), T237-T248. 
 * Ying Liu, Jingye Li, Xiaohong Chen, **Zhikai Wang**, Yiran Xu and Benfeng Wang (2017), Q estimation and its application in the 3D shallow weathering zone, Interpretation, 5(1), SC29-SC38.
 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+---
 
 <br />
 
