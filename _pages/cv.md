@@ -21,7 +21,7 @@ Education
 
 <br />
 
-Professional experience
+Professional Experience
 ======
 * 2023.02-    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Newton International Research Fellow at University of Southampton, UK
 
@@ -29,7 +29,7 @@ Professional experience
 
 <br />
 
-Publications
+Publications in Peer-Reviewed Journals
 =====
 * **Zhikai Wang**, Satish Singh, Timothy Minshull and Wayne Crawford (2025),Fine-scale crustal velocity structure at the Lucky Strike segment of Mid-Atlantic Ridge from full waveform inversion of wide-angle seismic data, Journal of Geophysical Research: Solid Earth. (Accepted)
 * **Zhikai Wang** and Satish C. Singh (2022), Seismic evidence for uniform crustal accretion along slow-spreading ridges in the equatorial Atlantic Ocean, Nature communications, 13, 7809.
