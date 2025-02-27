@@ -23,7 +23,7 @@ Education
 
 Professional experience
 ======
-* 2023.02- &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Newton International Research Fellow at University of Southampton, UK
+* 2023.02-    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Newton International Research Fellow at University of Southampton, UK
 
 * 2022.07-2023.02 &nbsp; &nbsp; &nbsp;Postdoc researcher at Institut de Physique du Globe de Paris, France
 
