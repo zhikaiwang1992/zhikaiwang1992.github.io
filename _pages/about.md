@@ -16,7 +16,7 @@ Research interests
 ----
 Plate tectonics, Mid-ocean ridges and transform faults, Continental margins
 
-Bathymetry mapping Seismic inversion, Gravity inversion, Geodynamic modelling
+Bathymetry mapping, Seismic inversion, Gravity inversion, Geodynamic modelling
 
 Education
 ----
