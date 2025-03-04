@@ -5,7 +5,7 @@ permalink: /publication/2015-10-01-paper-title-number-10
 excerpt: '**Zhikai Wang**, Jingye Li, Benfeng Wang, Yiran Xu and Xiaohong Chen'
 date: 2017-07-24
 venue: 'Geophysics'
-paperurl: 'https://library.seg.org/doi/abs/10.1190/geo2017-0012.1?journalCode=gpysa7'
+paperurl: 'https://library.seg.org/doi/abs/10.1190/geo2017-0012.1'
 link: 'https://doi.org/10.1038/s41561-022-01003-3](https://library.seg.org/doi/abs/10.1190/geo2017-0012.1?journalCode=gpysa7'
 ---
 [Download paper here](https://library.seg.org/doi/abs/10.1190/geo2017-0012.1?journalCode=gpysa7)
