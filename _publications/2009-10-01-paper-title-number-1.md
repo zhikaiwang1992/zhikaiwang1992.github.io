@@ -5,7 +5,7 @@ permalink: /publication/2015-10-01-paper-title-number-1
 excerpt: '**Zhikai Wang** and Satish C. Singh'
 date: 2022-12-17
 venue: 'Nature Communications'
-paperurl: 'https://doi.org/10.1038/s41467-022-35459-z'
+paperurl: ''
 link: 'https://doi.org/10.1038/s41467-022-35459-z'
 ---
 [Download paper here](https://doi.org/10.1038/s41467-022-35459-z)
