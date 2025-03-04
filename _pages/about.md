@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Royal Society - Newton International Fellow at the University of Southampton, UK. As a geoscientist, my research in geoscience addresses the origin, formation and evolution of oceanic lithosphere, particularly the interactions among magmatic, tectonic and hydrothermal processes at mid-ocean ridges and the nature of transform faults bounding ridges. I use different techniques including bathymetry mapping, seismic travel time tomography and full waveform inversion, gravity inversion and geodynamic modelling.
+I am a Royal Society - Newton International Fellow at the University of Southampton, UK. As a geophysicist, my research in geoscience addresses the origin, formation and evolution of oceanic lithosphere, particularly the interactions among magmatic, tectonic and hydrothermal processes at mid-ocean ridges and the nature of transform faults bounding ridges. I use different techniques including bathymetry mapping, seismic travel time tomography and full waveform inversion, gravity inversion and geodynamic modelling.
 
 Emails: zhikaiwang1992@gmail.com; zw1m23@soton.ac.uk
 
