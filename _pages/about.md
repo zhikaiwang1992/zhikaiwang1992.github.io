@@ -20,5 +20,5 @@ Bathymetry mapping, Seismic inversion, Gravity inversion, Geodynamic modelling
 
 Current Research Project
 ----
-* "How the crust is built at a slow-spreading mid-ocean ridge?" &nbsp; &nbsp; &nbsp; 2023-2025
+* "How the crust is built at a slow-spreading mid-ocean ridge?" &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 2023-2025
  &nbsp; &nbsp; &nbsp; Funded by the Royal Society-Newton International Fellowship
