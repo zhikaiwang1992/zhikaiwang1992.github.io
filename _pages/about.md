@@ -12,9 +12,13 @@ I am a Royal Society - Newton International Fellow at the University of Southamp
 
 Emails: zhikaiwang1992@gmail.com; zw1m23@soton.ac.uk
 
-Research interests
+Research Interests
 ----
 Plate tectonics, Mid-ocean ridges and transform faults, Continental margins
 
 Bathymetry mapping, Seismic inversion, Gravity inversion, Geodynamic modelling
 
+Current Research Project
+----
+* How the crust is built at a slow-spreading mid-ocean ridge? (PI: Zhikai Wang)
+  Funded by the Royal Society-Newton International Fellowship
