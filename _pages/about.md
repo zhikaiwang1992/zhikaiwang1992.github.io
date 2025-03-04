@@ -18,10 +18,3 @@ Plate tectonics, Mid-ocean ridges and transform faults, Continental margins
 
 Bathymetry mapping, Seismic inversion, Gravity inversion, Geodynamic modelling
 
-# Education
-# ----
-# 2022 &nbsp;**PhD of Earth & Environmental Science**, Institut de Physique du Globe de Paris, France
-
-# 2018 &nbsp;**Master of Geophysics**, Institut de Physique du Globe de Paris, Université Paris 7, France
-
-# 2014 &nbsp;**Bachelor of Geophysics**, China University of Petroleum at Beijing, China
