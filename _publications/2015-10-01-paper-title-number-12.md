@@ -8,4 +8,4 @@ venue: 'Journal of Geophysical Research: Solid Earth. (Accepted)'
 paperurl: ''
 citation: 'Zhikai Wang, Satish C. Singh, Timothy A. Minshull and Wayne C. Crawford (2025). &quot;Fine-scale crustal velocity structure at the Lucky Strike segment of Mid-Atlantic Ridge from full waveform inversion of wide-angle seismic data&quot; <i>, Journal of Geophysical Research: Solid Earth. (Accepted)</i>.'
 ---
-[Download paper here](https://library.seg.org/doi/10.1190/INT-2016-0047.1)
+[Download paper here]()
