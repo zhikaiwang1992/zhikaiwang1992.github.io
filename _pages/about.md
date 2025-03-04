@@ -20,5 +20,5 @@ Bathymetry mapping, Seismic inversion, Gravity inversion, Geodynamic modelling
 
 Current Research Project
 ----
-* How the crust is built at a slow-spreading mid-ocean ridge? (PI: Zhikai Wang) &nbsp; &nbsp; &nbsp; &nbsp;
+* "How the crust is built at a slow-spreading mid-ocean ridge?"; PI: Zhikai Wang &nbsp; &nbsp; &nbsp; &nbsp;
   Funded by the Royal Society-Newton International Fellowship
