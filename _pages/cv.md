@@ -31,7 +31,7 @@ Professional Experience
 
 Publications in Peer-Reviewed Journals
 =====
-* [13] **Zhikai Wang**, Satish C. Singh and J. Pablo Canales (2025), Link between Crustal thickness and Moho transition zone at 9oN East Pacific Rise, Earth and Planetary Science Letters. (Accepted).
+* [13] **Zhikai Wang**, Satish C. Singh and J. Pablo Canales (2025), Link between Crustal thickness and Moho transition zone at 9°N East Pacific Rise, Earth and Planetary Science Letters. (Accepted).
 * [12] **Zhikai Wang**, Satish C. Singh, Timothy A. Minshull and Wayne C. Crawford (2025), Fine-scale crustal velocity structure at the Lucky Strike segment of Mid-Atlantic Ridge from full waveform inversion of wide-angle seismic data, Journal of Geophysical Research: Solid Earth, 130, e2024JB029982.
 * [11] **Zhikai Wang** and Satish C. Singh (2022), Seismic evidence for uniform crustal accretion along slow-spreading ridges in the equatorial Atlantic Ocean, Nature communications, 13, 7809.
 * [10 **Zhikai Wang**, Satish C. Singh, Cecile Prigent, Emma P.M. Gregory and Milena Marjanović (2022), Deep hydration and lithospheric thinning at oceanic transform plate boundaries, Nature Geoscience, 15, 741–746.
