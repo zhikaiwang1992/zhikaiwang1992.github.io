@@ -53,22 +53,22 @@ Publications in Peer-Reviewed Journals
 
 <br />
 
-Conference Abstracts
 CONFERENCE ABSTRACTS 
-[14] **Zhikai Wang** et al. (2024), Seismic evidence for the upper crustal accretion by long-distance lateral dyke injection at the Lucky Strike segment of Mid-Atlantic Ridge, AGU Fall Meeting, Washington, D.C.
-[13] **Zhikai Wang** et al. (2024), Fine-scale crustal velocity structures along and across the Lucky Strike segment of Mid-Atlantic Ridge from full waveform inversion of wide-angle seismic data, EGU General Assembly, Vienna.
-[12] Wei Wang, Satish C. Singh and **Zhikai Wang** et al. (2024), Crustal Structure of Continental Margin and Oceanic Basin at the Southern Mozambique Margin, EGU General Assembly, Vienna.
-[11] **Zhikai Wang** and Satish C. Singh (2024), Fine-scale crustal velocity structure of the East Pacific Rise at 9o15'–10oN from full waveform inversion of wide-angle seismic data, AGU Fall Meeting, San Francisco.
-[10] Nirmit Dhabaria, Satish C. Singh and **Zhikai Wang** (2023), Nature of oceanic crust and Moho transition zone of 70 Ma old lithosphere formed at the Mid-Atlantic Ridge in the Equatorial Atlantic Ocean using elastic full-waveform inversion of the ocean bottom seismometer data, AGU Fall Meeting, San Francisco.
-  [9] **Zhikai Wang** et al. (2021), Evidence for uniform crustal accretion and 2-D passive mantle upwelling in the equatorial Atlantic Ocean from wide-angle seismic tomography, AGU Fall Meeting, New Orleans.
-  [8] **Zhikai Wang** et al. (2021), Lithospheric thinning due to deep hydration and water-induced mantle melting at oceanic transform plate boundaries, AGU Fall Meeting, New Orleans.
-  [7] Nirmit Dhabaria, Satish C. Singh and **Zhikai Wang** (2021), 2D elastic full-waveform inversion of wide-angle seismic data to characterize a 70 Ma old crust and Moho in the equatorial Atlantic Ocean, AGU Fall Meeting, New Orleans.
-  [6] Emma P.M. Gregory, Milena Marjanović, **Zhikai Wang** and Satish C. Singh (2020), Structure and composition of large-offset Atlantic transform faults: an extreme example at the Romanche transform from wide-angle refraction data, General Assembly, Vienna.
-  [5] Milena Marjanovic, Kevin Growe, Emma P.M. Gregory, Satish C. Singh, Ingo Grevemeyer, Venkata A. Vaddineni, Muriel Laurencin, **Zhikai Wang** et al., (2019), Variations in structural and thermal properties of the lithosphere across large fracture zones/transform fault in the equatorial Atlantic, AGU Fall Meeting, San Francisco.
-  [4] **Zhikai Wang** et al. (2017), A New Class of Central Compact Finite-difference Scheme with High Spectral Resolution for Acoustic Wave Equation, the 79th EAGE Meeting, Paris.
-  [3] **Zhikai Wang** et al. (2017), An Explicit Finite Difference Method Based on the Mixed Domain Function Approximation and Adaptive Spatial Operator Length Scheme, the 79th EAGE Meeting, Paris.
-  [2] **Zhikai Wang** et al. (2016), Event registration of converted-wave images using the inverted PS-wave section and dynamic time warping, SEG Fall Meeting, Dallas.
-  [1] Benfeng Wang, Xiaohong Chen, Wenkai Lu, **Zhikai Wang** and Jie Mu (2016), An Amplitude Preserving S-transform for Seismic Data Attenuation Compensation, the 78th EAGE Meeting, Vienna.
+=====
+* [14] **Zhikai Wang** et al. (2024), Seismic evidence for the upper crustal accretion by long-distance lateral dyke injection at the Lucky Strike segment of Mid-Atlantic Ridge, AGU Fall Meeting, Washington, D.C.
+* [13] **Zhikai Wang** et al. (2024), Fine-scale crustal velocity structures along and across the Lucky Strike segment of Mid-Atlantic Ridge from full waveform inversion of wide-angle seismic data, EGU General Assembly, Vienna.
+* [12] Wei Wang, Satish C. Singh and **Zhikai Wang** et al. (2024), Crustal Structure of Continental Margin and Oceanic Basin at the Southern Mozambique Margin, EGU General Assembly, Vienna.
+* [11] **Zhikai Wang** and Satish C. Singh (2024), Fine-scale crustal velocity structure of the East Pacific Rise at 9o15'–10oN from full waveform inversion of wide-angle seismic data, AGU Fall Meeting, San Francisco.
+* [10] Nirmit Dhabaria, Satish C. Singh and **Zhikai Wang** (2023), Nature of oceanic crust and Moho transition zone of 70 Ma old lithosphere formed at the Mid-Atlantic Ridge in the Equatorial Atlantic Ocean using elastic full-waveform inversion of the ocean bottom seismometer data, AGU Fall Meeting, San Francisco.
+*  [9] **Zhikai Wang** et al. (2021), Evidence for uniform crustal accretion and 2-D passive mantle upwelling in the equatorial Atlantic Ocean from wide-angle seismic tomography, AGU Fall Meeting, New Orleans.
+*  [8] **Zhikai Wang** et al. (2021), Lithospheric thinning due to deep hydration and water-induced mantle melting at oceanic transform plate boundaries, AGU Fall Meeting, New Orleans.
+*  [7] Nirmit Dhabaria, Satish C. Singh and **Zhikai Wang** (2021), 2D elastic full-waveform inversion of wide-angle seismic data to characterize a 70 Ma old crust and Moho in the equatorial Atlantic Ocean, AGU Fall Meeting, New Orleans.
+*  [6] Emma P.M. Gregory, Milena Marjanović, **Zhikai Wang** and Satish C. Singh (2020), Structure and composition of large-offset Atlantic transform faults: an extreme example at the Romanche transform from wide-angle refraction data, General Assembly, Vienna.
+*  [5] Milena Marjanovic, Kevin Growe, Emma P.M. Gregory, Satish C. Singh, Ingo Grevemeyer, Venkata A. Vaddineni, Muriel Laurencin, **Zhikai Wang** et al., (2019), Variations in structural and thermal properties of the lithosphere across large fracture zones/transform fault in the equatorial Atlantic, AGU Fall Meeting, San Francisco.
+*  [4] **Zhikai Wang** et al. (2017), A New Class of Central Compact Finite-difference Scheme with High Spectral Resolution for Acoustic Wave Equation, the 79th EAGE Meeting, Paris.
+*  [3] **Zhikai Wang** et al. (2017), An Explicit Finite Difference Method Based on the Mixed Domain Function Approximation and Adaptive Spatial Operator Length Scheme, the 79th EAGE Meeting, Paris.
+*  [2] **Zhikai Wang** et al. (2016), Event registration of converted-wave images using the inverted PS-wave section and dynamic time warping, SEG Fall Meeting, Dallas.
+*  [1] Benfeng Wang, Xiaohong Chen, Wenkai Lu, **Zhikai Wang** and Jie Mu (2016), An Amplitude Preserving S-transform for Seismic Data Attenuation Compensation, the 78th EAGE Meeting, Vienna.
 
 =====
 
