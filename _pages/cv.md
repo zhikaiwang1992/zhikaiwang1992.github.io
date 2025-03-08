@@ -70,7 +70,6 @@ CONFERENCE ABSTRACTS
 *  [2] **Zhikai Wang** et al. (2016), Event registration of converted-wave images using the inverted PS-wave section and dynamic time warping, SEG Fall Meeting, Dallas.
 *  [1] Benfeng Wang, Xiaohong Chen, Wenkai Lu, **Zhikai Wang** and Jie Mu (2016), An Amplitude Preserving S-transform for Seismic Data Attenuation Compensation, the 78th EAGE Meeting, Vienna.
 
-=====
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
 ---
