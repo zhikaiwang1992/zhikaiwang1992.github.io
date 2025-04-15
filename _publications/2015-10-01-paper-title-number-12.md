@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2015-10-01-paper-title-number-12
 excerpt: '**Zhikai Wang**, Satish C. Singh, Timothy A. Minshull and Wayne C. Crawford'
 date: 2025-02-15
-venue: "Journal of Geophysical Research: Solid Earth, (Editor's highlight)"
+venue: "Journal of Geophysical Research: Solid Earth"
 paperurl: 'https://doi.org/10.1029/2024JB029982'
 link: 'https://doi.org/10.1029/2024JB029982'
 ---
