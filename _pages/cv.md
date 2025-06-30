@@ -53,7 +53,7 @@ Publications in Peer-Reviewed Journals
 
 <br />
 
-CONFERENCE ABSTRACTS in English
+Conference Abstracts in English
 =====
 * [15] **Zhikai Wang** and Satish C. Singh (2025), Thick crust, thin Moho transition zone and negative velocity gradient in the mantle along a 30.6 Ma segment in the South Atlantic Ocean at 31°S, EGU General Assembly, Vienna.
 * [14] **Zhikai Wang** et al. (2024), Seismic evidence for the upper crustal accretion by long-distance lateral dyke injection at the Lucky Strike segment of Mid-Atlantic Ridge, AGU Fall Meeting, Washington, D.C.
