@@ -13,7 +13,7 @@ redirect_from:
 
 Education
 ======
-* 2022 &nbsp; &nbsp; **PhD of Earth and Environmental Science**, Institut de Physique du Globe de Paris, France
+* 2022 &nbsp; &nbsp; **PhD of Earth and Environmental Science**, Université Paris-Cité, France
 
 * 2018 &nbsp; &nbsp; **Master of Geophysics**, Institut de Physique du Globe de Paris, Université Paris 7, France
 
