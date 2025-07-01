@@ -14,7 +14,8 @@ Emails: zhikaiwang1992@gmail.com (preferred);  zwang@ipgp.fr;  zw1m23@soton.ac.u
 
 Research Interests
 ----
-Plate tectonics, Mid-ocean ridges, Oceanic transform faults, Continental margins
+Plate tectonics, Mid-ocean ridgs, Oceanic transform fault, Continental margin
+
 Bathymetry mapping, Seismic inversion, Gravity inversion, Geodynamic modelling
 
 Research Project
