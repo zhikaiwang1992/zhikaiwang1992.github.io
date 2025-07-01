@@ -14,8 +14,8 @@ redirect_from:
 Education
 ======
 * 2022 &nbsp; &nbsp; **PhD of Earth and Environmental Science**, Université Paris-Cité, France
-* 2018 &nbsp; &nbsp; **Master of Geophysics**, Institut de Physique du Globe de Paris, Université Paris 7, France
-* 2014 &nbsp; &nbsp; **Bachelor of Geophysics**, China University of Petroleum at Beijing, China
+* 2018 &nbsp; &nbsp; **Master of Geophysics**, Université Paris 7, France
+* 2014 &nbsp; &nbsp; **Bachelor of Geophysics**, China University of Petroleum (Beijing), China
 <br />
 
 Professional Experience
