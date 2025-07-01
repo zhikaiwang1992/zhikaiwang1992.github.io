@@ -16,7 +16,6 @@ Education
 * 2022 &nbsp; &nbsp; **PhD of Earth and Environmental Science**, Université Paris-Cité, France
 * 2018 &nbsp; &nbsp; **Master of Geophysics**, Institut de Physique du Globe de Paris, Université Paris 7, France
 * 2014 &nbsp; &nbsp; **Bachelor of Geophysics**, China University of Petroleum at Beijing, China
-
 <br />
 
 Professional Experience
@@ -24,20 +23,17 @@ Professional Experience
 * 2025.07- &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Research associate at Institut de Physique du Globe de Paris, France
 * 2023.02-2025.06 &nbsp; &nbsp; &nbsp; Newton International Research Fellow at University of Southampton, UK
 * 2022.07-2023.02 &nbsp; &nbsp; &nbsp; Postdoc researcher at Institut de Physique du Globe de Paris, France
-
 <br />
 
 Funding, Fellowships and Awards
 ======
 * 2025 &nbsp; &nbsp; &nbsp; Editor's Highlight in Journal of Geophysical Research: Solid Earth
 * 2022 &nbsp; &nbsp; &nbsp; Royal Society - Newton International Fellowship (host PI)
-
 <br />
 
 Manuscript(s) Under Review
 =====
 *  [1] Wei Wang, Satish C. Singh and **Zhikai Wang** et al., Crustal structure and magmatism of the Limpopo transform margin at the Southern Mozambique using wide-angle seismic data. (Under review in ‘Geophysical Journal International’).
-  
 <br />
 
 Publications in Peer-reviewed Journals
@@ -55,7 +51,6 @@ Publications in Peer-reviewed Journals
 * [3] **Zhikai Wang**, Jingye Li, Benfeng Wang, Yiran Xu and Xiaohong Chen (2018), A new central compact finite difference scheme with high spectral resolution for acoustic wave equation, Journal of Computational Physics, 366, 191-206.
 * [2] **Zhikai Wang**, Jingye Li, Benfeng Wang, Yiran Xu and Xiaohong Chen (2017), Time-domain explicit finite-difference method based on the mixed-domain function approximation for acoustic wave equation, Geophysics, 82(5), T237-T248. 
 * [1] Ying Liu, Jingye Li, Xiaohong Chen, **Zhikai Wang**, Yiran Xu and Benfeng Wang (2017), Q estimation and its application in the 3D shallow weathering zone, Interpretation, 5(1), SC29-SC38.
-
 <br />
 
 Conference Abstracts in English
