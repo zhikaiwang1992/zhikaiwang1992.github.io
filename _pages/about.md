@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral research associate at Institut de Physique du Globe de Paris, France. Before that, I was a Royal Society-Newton International Fellow at the University of Southampton, UK. As a geophysicist, my research in geoscience addresses the origin, formation and evolution of oceanic lithosphere, particularly the interactions among magmatic, tectonic and hydrothermal processes within mid-ocean ridge-transform fault systems. I use different geophysical techniques including bathymetry mapping, seismic modelling and inversion, gravity inversion and geodynamic modelling.
+I am a Postdoctoral Research Associate at Institut de Physique du Globe de Paris, France. Previously, I worked as a Royal Society-Newton International Fellow at the University of Southampton, UK. As a geophysicist, I investigate the formation and evolution of oceanic lithosphere, with a focus on the interactions between magmatic, tectonic, and hydrothermal processes in mid-ocean ridge-transform fault systems. I use a range of geophysical techniques, including bathymetry mapping, seismic modelling and inversion, gravity inversion and geodynamic modelling.
 
 Emails: zhikaiwang1992@gmail.com (preferred);  zwang@ipgp.fr;  zw1m23@soton.ac.uk
 
