@@ -17,8 +17,3 @@ Research Interests
 Plate tectonics, Mid-ocean ridge, Oceanic transform fault, Continental margin
 
 Bathymetry mapping, Seismic inversion, Gravity inversion, Geodynamic modelling
-
-Research Project
-----
-* <How the crust is built at a slow-spreading mid-ocean ridge?> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 2023-2025
- &nbsp; &nbsp; &nbsp; &nbsp; Funded by the Royal Society-Newton International Fellowship
