@@ -33,7 +33,7 @@ Funding, Fellowships and Awards
 
 Manuscript(s) Under Review
 =====
-*  [1] Wei Wang, Satish C. Singh and **Zhikai Wang** et al., Crustal structure and magmatism of the Limpopo transform margin at the Southern Mozambique using wide-angle seismic data. (Under review in ‘Geophysical Journal International’).
+*  [1] Wei Wang, Satish C. Singh and **Zhikai Wang** et al., Crustal structure and magmatism of the Limpopo transform margin at the Southern Mozambique using wide-angle seismic data. (Under monir review in ‘Geophysical Journal International’).
 <br />
 
 Publications in Peer Reviewed Journals
