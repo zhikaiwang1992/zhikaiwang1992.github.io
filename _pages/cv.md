@@ -31,11 +31,6 @@ Funding, Fellowships and Awards
 * 2022 &nbsp; &nbsp; &nbsp; Royal Society - Newton International Fellowship (host PI)
 <br />
 
-%Manuscript(s) Under Review
-%=====
-
-<br />
-
 Publications in Peer Reviewed Journals
 =====
 * [14] Wei Wang, Satish C. Singh and **Zhikai Wang** et al. (2025), Crustal structure and magmatism of the Limpopo transform margin at the Southern Mozambique using wide-angle seismic data, Geophysical Journal International, accepted.
