@@ -31,6 +31,10 @@ Funding, Fellowships and Awards
 * 2022 &nbsp; &nbsp; &nbsp; Royal Society - Newton International Fellowship (host PI)
 <br />
 
+Publications in Review
+=====
+* [1] **Zhikai Wang** and Satish C. Singh, Seismic evidence for the presence of a dunite-rich layer beneath the 30.6 Ma-old crust in the Atlantic Ocean at 31°S (under review in Geology)
+
 Publications in Peer Reviewed Journals
 =====
 * [14] Wei Wang, Satish C. Singh and **Zhikai Wang** et al. (2025), Crustal structure and magmatism of the Limpopo transform margin at the Southern Mozambique using wide-angle seismic data, Geophysical Journal International, 243, 1–18.
@@ -70,6 +74,7 @@ Conference Abstracts in English
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
 ---
+
 
 <br />
 
