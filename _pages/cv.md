@@ -25,7 +25,7 @@ Professional Experience
 * 2022.07-2023.02 &nbsp; &nbsp; &nbsp; Postdoctoral researcher at Institut de Physique du Globe de Paris, France
 <br />
 
-Funding, Fellowships and Awards
+Funding, Fellowships and Awards (after PhD)
 ======
 * 2025 &nbsp; &nbsp; &nbsp; Editor's Highlight in Journal of Geophysical Research: Solid Earth
 * 2022 &nbsp; &nbsp; &nbsp; Royal Society - Newton International Fellowship (host PI)
