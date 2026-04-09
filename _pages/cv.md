@@ -33,7 +33,7 @@ Funding, Fellowships and Awards
 
 Publications in Review
 =====
-* [1] **Zhikai Wang** and Satish C. Singh, Seismic evidence for the presence of a dunite-rich layer beneath the 30.6 Ma-old crust in the Atlantic Ocean at 31°S (under review in Geology)
+* [1] **Zhikai Wang** and Satish C. Singh, Seismic evidence for a dunite-rich layer beneath mature South Atlantic Ocean crust (under review in Geology)
 
 Publications in Peer Reviewed Journals
 =====
