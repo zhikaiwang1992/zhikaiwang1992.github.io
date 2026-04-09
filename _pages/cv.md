@@ -14,7 +14,7 @@ redirect_from:
 Education (from CUP to UPC)
 ======
 * 2022 &nbsp; &nbsp; **PhD in Earth and Environmental Science**, Université Paris-Cité (UPC), Paris, France 
-* 2018 &nbsp; &nbsp; **Master in Geophysics**, Université Paris Diderot (Paris VII), Paris France
+* 2018 &nbsp; &nbsp; **Master in Geophysics**, Université Paris Diderot (Paris VII), Paris, France
 * 2014 &nbsp; &nbsp; **Bachelor in Geophysics**, China University of Petroleum (CUP), Beijing, China
 <br />
 
