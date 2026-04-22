@@ -31,9 +31,6 @@ Funding, Fellowships and Awards (after PhD)
 * 2022 &nbsp; &nbsp; &nbsp; Royal Society - Newton International Fellowship (host PI)
 <br />
 
-Publications in Review
-=====
-
 Publications in Peer Reviewed Journals
 =====
 * [15] **Zhikai Wang** and Satish C. Singh (2026), Seismic evidence for a dunite-rich layer beneath mature South Atlantic Ocean crust, Geology (in press).
