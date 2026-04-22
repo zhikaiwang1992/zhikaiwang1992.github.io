@@ -33,10 +33,10 @@ Funding, Fellowships and Awards (after PhD)
 
 Publications in Review
 =====
-* [1] **Zhikai Wang** and Satish C. Singh, Seismic evidence for a dunite-rich layer beneath mature South Atlantic Ocean crust (under review in Geology)
 
 Publications in Peer Reviewed Journals
 =====
+* [15] **Zhikai Wang** and Satish C. Singh (2026), Seismic evidence for a dunite-rich layer beneath mature South Atlantic Ocean crust, Geology (in press).
 * [14] Wei Wang, Satish C. Singh and **Zhikai Wang** et al. (2025), Crustal structure and magmatism of the Limpopo transform margin at the Southern Mozambique using wide-angle seismic data, Geophysical Journal International, 243, 1–18.
 * [13] **Zhikai Wang**, Satish C. Singh and J. Pablo Canales (2025), Link between Crustal thickness and Moho transition zone at 9°N East Pacific Rise, Earth and Planetary Science Letters, 658, 119309.
 * [12] **Zhikai Wang**, Satish C. Singh, Timothy A. Minshull and Wayne C. Crawford (2025), Fine-scale crustal velocity structure at the Lucky Strike segment of Mid-Atlantic Ridge from full waveform inversion of wide-angle seismic data, Journal of Geophysical Research: Solid Earth, 130, e2024JB029982.
