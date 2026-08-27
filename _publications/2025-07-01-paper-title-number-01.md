@@ -9,6 +9,5 @@ paperurl: 'https://doi.org/10.1093/gji/ggaf285'
 link: 'https://doi.org/10.1093/gji/ggaf285'
 ---
 [Download paper here](https://doi.org/10.1093/gji/ggaf285) 
-#citation: 'Zhikai Wang, Satish C. Singh and J. Pablo Canales (2025). &quot;Link between Crustal thickness and Moho transition zone at 9°N East Pacific Rise&quot; <i>, Earth and Planetary Science Letters, 658, 119309</i>.'
 
 
